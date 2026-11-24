@@ -8,8 +8,10 @@ console-style menu.
 1. Open the [latest release](https://github.com/Podcherry/podcherry-releases/releases/latest)
    and download the `.dmg`.
 2. Drag PodCherry to Applications.
-3. The first time, **right-click → Open**. PodCherry isn't notarised by Apple
-   yet, so macOS asks once whether to trust it.
+3. Open PodCherry. It isn't notarised by Apple yet, so the first time macOS
+   refuses with a warning. Click **Done**, then go to **System Settings →
+   Privacy & Security**, scroll down, and click **Open Anyway** next to
+   PodCherry. You only do this once.
 
 Requires an Apple Silicon Mac.
 
