@@ -13,7 +13,8 @@ console-style menu.
    Privacy & Security**, scroll down, and click **Open Anyway** next to
    PodCherry. You only do this once.
 
-Requires an Apple Silicon Mac.
+Requires an Apple Silicon Mac running macOS 12 or later. CD ripping currently
+needs macOS 26 or later.
 
 ## Updates
 
